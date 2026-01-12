@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://word4word.com/sitemap.xml
